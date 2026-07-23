@@ -37,11 +37,7 @@ My first published Android app on Cafe Bazaar — a solar oven recipe app with a
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,postman" />
 </p>
 
-**Android:** Kotlin · Jetpack Compose · MVVM / MVI / MVP · Hilt / Koin · Room · WorkManager · Retrofit · Ktor-client · WebSocket · Coil
-
-**Currently Advancing:** Advanced Jetpack Compose animations · Modularization · Testing (Unit & UI)
-
-**Plan to Learn:** Kotlin Multiplatform (KMP) · CI/CD for Android
+**Android:** Kotlin · Jetpack Compose · MVVM / Hilt / Koin · Room · WorkManager · Retrofit · Coil
 
 ---
 
